@@ -14,6 +14,6 @@ GaneState类实现对开始和结束界面的绘制\
 GameTime类实现计时器的编写\
 Constant类定义重要参数和图片位置\
 GameUtil类使图片载入内存一次性打印\
-GameApp类调用GameFrame类开始游戏\
+GameApp类调用GameFrame类开始游戏
 ## 运行效果
 ![image](https://github.com/user-attachments/assets/7a601f08-7c96-43f7-8b5e-6d01286322d9)
